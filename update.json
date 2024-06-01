@@ -1,10 +1,10 @@
 [
   {
-    "id": 1,
-    "version": "DMP_U2000020",
-    "name": "update",
-    "datetime": "12-12-2023",
-    "url": "https://github.com/shngain/medi_update/raw/main/data.zip",
-    "description": "backup fixed"
+    "id": 11,
+    "version": "DMP_U00006",
+    "name": "Update Base",
+    "datetime": "01-06-2024",
+    "url": "https://github.com/shngain/medi_update/raw/main/data1.zip",
+    "description": "Major update with all bugs and everthing fixed"
   }
 ]
